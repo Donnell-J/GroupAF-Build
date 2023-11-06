@@ -1,1 +1,1 @@
-Build Releases for the Group project
+Build Releases for GroupAF's project: Intertwyne
